@@ -286,13 +286,22 @@ add_subdirectory(tests)
 
 # Integration avec les IDEs
 
+- VSCode : [Cmake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+- NVim : [cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim)
+- CLion : Natif
+- VStudio : Natif
+- XCode : Natif
+
 ---
 
 # À voir aussi
 
-- Le scripting
-- Les generator expressions
-- Les presets et workflow
+- scripting
+- custom_commands
+- generator expressions
+- presets et workflow
+- FetchContent
+- Doxygen
 
 ---
 layout: end
